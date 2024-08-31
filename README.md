@@ -1,3 +1,3 @@
 # genuit
-Simple installation of all basic Mac programs
+Cómandpo para la instalación automatizada de programas básicos o personalizados en el IOS
 
